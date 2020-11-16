@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b9984ad-fe6a-4497-905b-b07d07689b87" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/inc/classes/Cron.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inc/classes/PhpParse.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inc/classes/Settings.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inc/classes/UploadPosts.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inc/img/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/simple_html_dom.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/view/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="2b9984ad-fe6a-4497-905b-b07d07689b87" name="Default Changelist" comment="yahoo parser">
+      <change beforePath="$PROJECT_DIR$/inc/classes/Cron.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/classes/Cron.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,14 +83,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605543578615</updated>
-      <workItem from="1605543579755" duration="9943000" />
+      <workItem from="1605543579755" duration="10280000" />
     </task>
+    <task id="LOCAL-00001" summary="yahoo parser">
+      <created>1605553563169</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605553563169</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="yahoo parser" />
+    <option name="LAST_COMMIT_MESSAGE" value="yahoo parser" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="911" y="8" key="CommitChangelistDialog2" timestamp="1605553590807">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="911" y="8" key="CommitChangelistDialog2/0.0.2560.1050@0.0.2560.1050" timestamp="1605553590807" />
     <state x="1088" y="233" key="NewPhpClassDialog" timestamp="1605548679431">
       <screen x="0" y="0" width="2560" height="1050" />
     </state>
@@ -110,6 +119,10 @@
       <screen x="0" y="0" width="2560" height="1050" />
     </state>
     <state x="796" y="170" key="SettingsEditor/0.0.2560.1050@0.0.2560.1050" timestamp="1605548819574" />
+    <state x="872" y="254" key="Vcs.Push.Dialog.v2" timestamp="1605553705031">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="872" y="254" key="Vcs.Push.Dialog.v2/0.0.2560.1050@0.0.2560.1050" timestamp="1605553705031" />
     <state x="991" y="249" width="577" height="552" key="find.popup" timestamp="1605549427131">
       <screen x="0" y="0" width="2560" height="1050" />
     </state>

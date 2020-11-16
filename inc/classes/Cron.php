@@ -3,9 +3,6 @@
     namespace YahooParser;
     
     class Cron {
-        
-        static $db;
-        
         public function __construct() {
             self::declaration();
             add_filter( 'cron_schedules', array( __CLASS__, 'cronTimes' ) );
