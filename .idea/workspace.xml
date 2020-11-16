@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2b9984ad-fe6a-4497-905b-b07d07689b87" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/inc/classes/Cron.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inc/classes/PhpParse.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inc/classes/Settings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inc/classes/UploadPosts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inc/img/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/simple_html_dom.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/amphp/process" />
+      <path value="$PROJECT_DIR$/vendor/haydenpierce/class-finder" />
+      <path value="$PROJECT_DIR$/vendor/amphp/uri" />
+      <path value="$PROJECT_DIR$/vendor/amphp/cache" />
+      <path value="$PROJECT_DIR$/vendor/amphp/artax" />
+      <path value="$PROJECT_DIR$/vendor/amphp/serialization" />
+      <path value="$PROJECT_DIR$/vendor/kelunik/certificate" />
+      <path value="$PROJECT_DIR$/vendor/amphp/byte-stream" />
+      <path value="$PROJECT_DIR$/vendor/amphp/file" />
+      <path value="$PROJECT_DIR$/vendor/amphp/amp" />
+      <path value="$PROJECT_DIR$/vendor/amphp/windows-registry" />
+      <path value="$PROJECT_DIR$/vendor/amphp/sync" />
+      <path value="$PROJECT_DIR$/vendor/amphp/parallel" />
+      <path value="$PROJECT_DIR$/vendor/amphp/dns" />
+      <path value="$PROJECT_DIR$/vendor/amphp/socket" />
+      <path value="$PROJECT_DIR$/vendor/amphp/parser" />
+      <path value="$PROJECT_DIR$/vendor/yahnis-elsts/plugin-update-checker" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/daverandom/libdns" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1kNac3sjtGPmV748Dn5GjUupub9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/inc/img" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\wamp\www\testproject" />
+      <recent name="E:\wamp\www\testproject\inc\libs" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\wamp\www\testproject\inc\img" />
+      <recent name="E:\wamp\www\testproject\inc\classes\helpers" />
+      <recent name="E:\wamp\www\testproject\inc\classes" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b9984ad-fe6a-4497-905b-b07d07689b87" name="Default Changelist" comment="" />
+      <created>1605543578615</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605543578615</updated>
+      <workItem from="1605543579755" duration="9943000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1088" y="233" key="NewPhpClassDialog" timestamp="1605548679431">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="1088" y="233" key="NewPhpClassDialog/0.0.2560.1050@0.0.2560.1050" timestamp="1605548679431" />
+    <state x="1115" y="444" key="NewPhpFileDialog" timestamp="1605544414482">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="1115" y="444" key="NewPhpFileDialog/0.0.2560.1050@0.0.2560.1050" timestamp="1605544414482" />
+    <state x="796" y="170" key="SettingsEditor" timestamp="1605548819574">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="796" y="170" key="SettingsEditor/0.0.2560.1050@0.0.2560.1050" timestamp="1605548819574" />
+    <state x="991" y="249" width="577" height="552" key="find.popup" timestamp="1605549427131">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="991" y="249" width="577" height="552" key="find.popup/0.0.2560.1050@0.0.2560.1050" timestamp="1605549427131" />
+  </component>
+</project>

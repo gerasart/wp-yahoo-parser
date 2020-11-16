@@ -1,0 +1,21 @@
+{
+  "name": "gerasart/social-contacts",
+  "authors": [
+    {
+      "name": "Gerasart",
+      "email": "gerasymenkoph@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "YahooParser\\": "inc/classes/"
+    }
+  },
+  "require-dev": {
+    "haydenpierce/class-finder": "^0.2.0"
+  },
+  "require": {
+    "yahnis-elsts/plugin-update-checker": "^4.9",
+    "amphp/artax": "^3.0"
+  }
+}
