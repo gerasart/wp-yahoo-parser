@@ -8,6 +8,7 @@
             add_filter( 'cron_schedules', array( __CLASS__, 'cronTimes' ) );
             add_action( 'wp', array( __CLASS__, 'registration' ) );
             //wp_clear_scheduled_hook( 'resetRegular' );
+            add_action('wp', [__CLASS__, 'updatePosts']);
         }
         
         /**
@@ -63,7 +64,12 @@
             }
         }
         
+        
+        
         public static function action_EveryTwoHours() {
+            add_action('wp', [__CLASS__, 'updatePosts']);
+        }
+        public static function updatePosts() {
             $links = [
                 [
                     'url' => 'https://finance.yahoo.com/',
@@ -75,7 +81,9 @@
                 ]
             ];
             $data  = PhpParse::parseLinks( $links );
+//            var_dump($data);
             foreach ( $data as $item ) {
+//                var_dump($item);
                 UploadPosts::single_post_insert( $item );
             }
         }
