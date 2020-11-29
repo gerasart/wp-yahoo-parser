@@ -22,51 +22,9 @@
                     $post_id = wp_insert_post( wp_slash( $new_post ) );
                     if ( !empty( $data['thumb'] ) ) {
                         ImageUploader::upload( $data['thumb'] , $post_id);
-//                        self::ImgUpload( esc_url( );
                     }
                 }
             }
         }
         
-//        public static function ImgUpload( $url, $parent_post_id = null ) {
-//
-//            $response = wp_remote_get( $url );
-//
-//            $t        = time();
-//            $filename = 'name' . date( "Y-m-d" ) . $t;
-//
-//
-//            $image = $response['body'];
-//
-//            $dir  = wp_upload_dir();
-//            $file = $dir['path'] . $filename . ".jpeg";
-//
-//            $fp = fopen( $file, "w" );
-//            fwrite( $fp, $image );
-//            fclose( $fp );
-//
-//            $filename = $file;
-//
-//            $filetype = wp_check_filetype( basename( $filename ), null );
-//
-//            $wp_upload_dir = wp_upload_dir();
-//
-//            $attachment = array(
-//                'guid'           => $wp_upload_dir['url'] . '/' . basename( $filename ),
-//                'post_mime_type' => $filetype['type'],
-//                'post_title'     => preg_replace( '/\.[^.]+$/', '', basename( $filename ) ),
-//                'post_content'   => '',
-//                'post_status'    => 'inherit'
-//            );
-//
-//            $attach_id = wp_insert_attachment( $attachment, $filename, $parent_post_id );
-//
-//            require_once(ABSPATH . 'wp-admin/includes/image.php');
-//
-//            $attach_data = wp_generate_attachment_metadata( $attach_id, $filename );
-//            wp_update_attachment_metadata( $attach_id, $attach_data );
-//
-//            set_post_thumbnail( $parent_post_id, $attach_id );
-//
-//        }
     }
